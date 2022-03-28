@@ -19,3 +19,10 @@ Should be Tensorflow based whenever possible
 Should have an architecture diagram
 
 Should be atleast one working example
+
+
+Dataset  Link-:  https://www.kaggle.com/competitions/dogs-vs-cats/data
+
+
+dataet for train dataset cat,dog
+dataet for test dataset cat,dog
